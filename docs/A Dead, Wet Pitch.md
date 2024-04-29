@@ -1,19 +1,19 @@
 *Starfall Sagas: Dead and Wet* is a dungeon crawl campaign that starts at the bottom of Lac Souhaitant near the bustling mortal refuge of Urles in the Blessed Battlefields of Scythrân, a corner of the Nameless Expanse in the world of The Firmament. Your character will delve beneath water and worry to grasp the secret workings of an ecosystem of death and wishes grown in a strange ruin called the Mantle Yielding. You'll begin as 9th-level characters who are one of four aspiring Saints of the Firstfallen, longtime friends whose ill-starred lives converge at the watery precipice of an ancient temple dedicated to a dead, obliviated God. 
 
+### The Refuge Beyond Beasts, Urles
+Known for its warrenlike streets and dense architecture, the city of Urles is one of the few bastions of the Blessed Throne in Scythrân's southeastern wetlands. Built atop a natural stronghold with rising hills on three sides and a steep drop to a charming lake, Urles had stood since the days before the reign of the first Blessed Monarch, Théomann Emerick I. The Oracle Queen's journey never brought her to the City of Refuge, but faith and fervor in the Blessed Throne remains a triumphant characteristic of the region. 
+
+Urles is one of few cities in Scythrân to maintain its own standing militia, the Amber Archons, many of whose youngest conscripts complete their training and move on to join the Knightly Orders of the Blessed Throne. Compulsory military service with few enemies to fight breeds mixtures of ingenuity and dissent. Urles' feats of civic engineering are second across Scythrân only to Titan's Serpentscapes, but gangs of well-trained malcontents stalk the streets and sewers of the Refuge, waiting to prey upon unwary travelers. 
+
 ### The Mantle Yielding
-
-
-
-### Refuge Beyond Beasts, Urles
-
-
+Fetid scents rise from the Wishing Lake, the once-shining waters that inspired defiance and granted refuge from great beasts now grow murky and stagnant. Pathetic, waterlogged things wash up to shore and trudge towards the lights and life of Urles. Initial explorations have uncovered a bizarre, immense stone structure beneath the Souhaitant, its presence announced by bloated death and sullied waters. For you, it feels like home. Something in the waves calls to you. It visits you in daydreams. It sings and you must reply. It calls you to death and wet, and you have answered. 
 
 ## Character Suggestions
 
 ### Ancestries
 Any Ancestry or Heritage with a swim speed and the ability to breathe underwater will have a strong advantage in delving the Mantle. Dwarves, Halflings, Humans, and Orcs are common in this region, as are the cave-dwelling amphibious Azarketi. Beastkin like Grippli, Kobolds, Lizardfolk, and Vanara are less common in the Urles Refuge, and are often presumed to be fitful emissaries of their elder lords rather than free agents. Elves and Gnomes of the Chausseurs are scarce in Urles, owing to the city's founding as a free state for short-lived folk and its distance from the Five Holds. It is unlikely that your character is both a long-lived folk and a onetime worshipper of the Firstfallen. Without regard to setting, Ancestries who rely on negative healing may find themselves immune to a number of their undead opponents' usual tricks, but might complicate things substantially for their party members. Conversely, Ancestries and Heritages with bonuses against death, disease, drain, fear, paralysis, poison, and void damage will excel in this adventure.
 ### Classes
-Dead and Wet foes are best met with Live and Mobile heroes. Barbarians, Champions, Clerics, Exemplars, Oracles, and Rangers are particularly well-suited to delving the Mantle Yielding. And, worshippers of the Firstfallen practiced a variety of arts. Classes who excel in detecting traps and manipulating battlefields will find their skills put to use in this dungeon crawl. No class is a guaranteed poor choice, but classes who succeed by inflicting disease, paralysis, poison, precision damage, or unconsciousness on their opponents will struggle against the risen dead.
+Dead and Wet foes are best met with Live and Mobile heroes. Barbarians, Champions, Clerics, Exemplars, Oracles, and Rangers are particularly well-suited to delving the Mantle Yielding. And, worshippers of the Firstfallen practiced a variety of arts. Classes who excel in detecting traps and manipulating battlefields will find their skills put to use in this dungeon crawl. No class is a guaranteed poor choice, but classes who best succeed by inflicting disease, paralysis, poison, precision damage, or unconsciousness on their opponents will struggle against the risen dead. Classes who rely on firearms, such as Gunslingers and some Inventors, will have an extremely hard time using their abilities underwater.
 ### Languages
 The primary language used in Scythrân is Common, specifically a strain of Common derived from Giant. Any other common languages are helpful to know. As seasoned adventurers, having a shared unusual language may allow you to covertly communicate tactics or plots. Aquan and Necril are particularly strong language choices against a Temple chock full of things both Wet and Dead.
 ### Faiths
@@ -52,6 +52,9 @@ Consult this table before selecting items or archetype feats. If a Restriction a
 | No Automatic Bonus Progression      | +2 FA feat                            | +1400gp                                 |
 | No Ancestry Paragon                 | +1 FA feat                            | +700gp                                  |
 | No Gradual Ability Boost            | +1 FA feat                            | +700gp                                  |
+
+
+
 ### Aside 1: Difficulty 
 This is going to be an old-school-ish dungeon crawl. You might have a hard time securing a safe place to rest overnight. Monsters will know their surroundings and habitats better than you do. Some foes may have unusual defenses and uncanny means of avoiding peril, requiring you to investigate their lairs before mounting an attack. 
 ### Aside 2: Aquatic Combat
