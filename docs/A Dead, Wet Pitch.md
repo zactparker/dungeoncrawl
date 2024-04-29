@@ -42,23 +42,24 @@ Your starting gold is: 1600gp. You may buy any **COMMON** item of 9th level or l
 
 Please enable the following rules in Pathbuilder: [Free Archetype](https://2e.aonprd.com/Rules.aspx?ID=2751&Redirected=1), [Automatic Bonus Progression](https://2e.aonprd.com/Rules.aspx?ID=2741&Redirected=1), [Ancestry Paragon](https://2e.aonprd.com/Rules.aspx?ID=1336), and [Gradual Ability Boosts](https://2e.aonprd.com/Rules.aspx?ID=1300). I trust all of you to build functional characters, so all of these rules are optional. Opting out of any of these rules will provide you with benefits, as illustrated below. 
 ### Restrictions Lookup
-Consult this table before selecting items or archetype feats. If a Restriction applies to you, you must apply the result from that restriction's Archetype **OR** Equipment column. You must choose one result. Some Restrictions give positive results. You can sell your access to a rule for more starting gold or other benefits.
+Consult this table before selecting items or archetype feats. If a Restriction applies to you, you **must** apply the result from that restriction's Archetype **OR** Equipment column. **You may only choose one result.** Some Restrictions give positive results, meaning that you can sell your access to a rule for more starting gold or other benefits.
 
-| Restriction                         | Archetype                             | Equipment                               |
-| ----------------------------------- | ------------------------------------- | --------------------------------------- |
-| No Divine Spellcasting              | -1 FA feat +1x Cleric Dedication Feat | -600gp +1x L9 Anointed Waterskin        |
-| No Swim Speed                       | -                                     | -660gp +1x L9 Helm of Underwater Action |
-| Swim Speed, no Underwater Breathing | -                                     | -160gp +1x L5 Shell of Easy Breathing   |
-| No Automatic Bonus Progression      | +2 FA feat                            | +1400gp                                 |
-| No Ancestry Paragon                 | +1 FA feat                            | +700gp                                  |
-| No Gradual Ability Boost            | +1 FA feat                            | +700gp                                  |
+| Restriction                         | Archetype                                | Equipment                               |
+| ----------------------------------- | ---------------------------------------- | --------------------------------------- |
+| No Divine Spellcasting              | -1 FA feat +1x L2 Cleric Dedication Feat | -600gp +1x L9 Anointed Waterskin        |
+| No Swim Speed                       | -                                        | -660gp +1x L9 Helm of Underwater Action |
+| Swim Speed, no Underwater Breathing | -                                        | -160gp +1x L5 Shell of Easy Breathing   |
+| No Automatic Bonus Progression      | +1 L8 Class feat, <br>+1 L6 Class feat   | +1400gp                                 |
+| No Ancestry Paragon                 | +1 L6 Class feat                         | +700gp                                  |
+| No Gradual Ability Boost            | +1 L4 Class feat                         | +700gp                                  |
 
 
 
 ### Aside 1: Difficulty 
-This is going to be an old-school-ish dungeon crawl. You might have a hard time securing a safe place to rest overnight. Monsters will know their surroundings and habitats better than you do. Some foes may have unusual defenses and uncanny means of avoiding peril, requiring you to investigate their lairs before mounting an attack. 
+This is going to be an old-school-ish dungeon crawl. You might have a hard time securing a safe place to rest overnight. Monsters will know their surroundings and habitats better than you do. Some foes may have unusual defenses and uncanny means of avoiding peril, requiring you to investigate their lairs before mounting an attack.  
+
 ### Aside 2: Aquatic Combat
-We're going to be dealing with a fairly even mix of aquatic and terrestrial combat. Please familiarize yourself with the rules of Aquatic Combat, reproduced below, as they may substantially affect your character choices. 
+We're going to be dealing with a fairly even mix of aquatic and terrestrial combat. Please familiarize yourself with the rules of Aquatic Combat, reproduced below, as they may substantially affect your character choices.   
 - You're off-guard unless you have a swim Speed.  
 - You gain resistance 5 to acid and fire.  
 - You take a –2 circumstance penalty to melee slashing or bludgeoning attacks that pass through water.  
