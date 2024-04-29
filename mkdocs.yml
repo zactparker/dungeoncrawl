@@ -7,8 +7,8 @@ theme:
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: amber
-      accent: indigo
+      primary: cyan
+      accent: blue
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
@@ -16,7 +16,7 @@ theme:
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: amber
+      primary: cyan
       accent: blue
       toggle:
         icon: material/toggle-switch
