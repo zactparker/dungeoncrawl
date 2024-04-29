@@ -1,5 +1,6 @@
- # *Dead and Wet*
-Lay down your troubles, and come sit under the stars.
+# *Dead and Wet*  
+ 
+*Lay down your troubles, and come sit under the stars.*
 
 ## Index
 Welcome! Below is a table for documents that may be of use as you develop your character and their backstory. If you'd prefer to just poke around, open the docs as you see fit. Items below are ordered by importance for getting started.
